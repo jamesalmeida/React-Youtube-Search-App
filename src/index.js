@@ -6,7 +6,8 @@ import SearchBar from './components/search_bar'
 import VideoList from './components/video_list'
 import VideoDetail from './components/video_detail'
 
-const API_KEY = 'AIzaSyB6ksch57QGDo7VcS90B7cavBh13Z09b8s';
+// Add your own API key here. Check README for more info...
+const API_KEY = 'YOUR-YOUTUBE-DATA-API-KEY-GOES-HERE';
 
 class App extends Component {
   constructor(props) {
